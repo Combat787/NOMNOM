@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 292
+    "downloadCount": 295
   },
   {
     "id": "AircraftWaypoints",
@@ -62,7 +62,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-AircraftWaypoints/releases/download/v2.1.0/AircraftWaypoints.zip"
       }
     ],
-    "downloadCount": 88
+    "downloadCount": 89
   },
   {
     "id": "bepinex-soundmod",
@@ -94,7 +94,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 612
+    "downloadCount": 614
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -167,7 +167,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 295
+    "downloadCount": 301
   },
   {
     "id": "galaxy2_voice",
@@ -335,7 +335,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 690
+    "downloadCount": 694
   },
   {
     "id": "LiveryManager",
@@ -503,7 +503,7 @@
         ]
       }
     ],
-    "downloadCount": 137
+    "downloadCount": 138
   },
   {
     "id": "LocalizationPatch.German",
@@ -635,7 +635,7 @@
         ]
       }
     ],
-    "downloadCount": 136
+    "downloadCount": 137
   },
   {
     "id": "LocalizationPatch.Korean",
@@ -767,7 +767,7 @@
         ]
       }
     ],
-    "downloadCount": 123
+    "downloadCount": 124
   },
   {
     "id": "LocalizationPatch.Russian",
@@ -926,7 +926,7 @@
         ]
       }
     ],
-    "downloadCount": 197
+    "downloadCount": 198
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -1089,7 +1089,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-CustomMapLoader/releases/download/v3.0.0/MapLoader_v3.0.0.zip"
       }
     ],
-    "downloadCount": 44
+    "downloadCount": 45
   },
   {
     "id": "MFDVideoPlayer",
@@ -1120,7 +1120,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-MFDVideoPlayer/releases/download/v2.0.0/MFDVideoPlayer.dll"
       }
     ],
-    "downloadCount": 96
+    "downloadCount": 97
   },
   {
     "id": "NO_Tactitools",
@@ -1258,7 +1258,7 @@
         ]
       }
     ],
-    "downloadCount": 3834
+    "downloadCount": 3844
   },
   {
     "id": "no-autopilot-mod",
@@ -1498,7 +1498,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2709
+    "downloadCount": 2717
   },
   {
     "id": "NOBlackBox",
@@ -1552,7 +1552,7 @@
         ]
       }
     ],
-    "downloadCount": 1993
+    "downloadCount": 1994
   },
   {
     "id": "NOCursorOverride",
@@ -1677,7 +1677,7 @@
         ]
       }
     ],
-    "downloadCount": 467
+    "downloadCount": 469
   },
   {
     "id": "NOLiveryPlus",
@@ -1866,7 +1866,7 @@
         ]
       }
     ],
-    "downloadCount": 1089
+    "downloadCount": 1094
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -2016,7 +2016,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 176
+    "downloadCount": 178
   },
   {
     "id": "RuntimeUnityEditor",
@@ -2049,7 +2049,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116718
+    "downloadCount": 116721
   },
   {
     "id": "skyeye_voice",
@@ -2186,7 +2186,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 428
+    "downloadCount": 429
   },
   {
     "id": "WeatherController",
@@ -2217,7 +2217,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 58
+    "downloadCount": 59
   },
   {
     "id": "WSOYappinator",
@@ -2250,7 +2250,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 766
+    "downloadCount": 767
   },
   {
     "id": "YawOnMouse",
