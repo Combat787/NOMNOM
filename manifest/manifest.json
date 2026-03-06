@@ -167,7 +167,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 327
+    "downloadCount": 328
   },
   {
     "id": "galaxy2_voice",
@@ -1258,7 +1258,7 @@
         ]
       }
     ],
-    "downloadCount": 3895
+    "downloadCount": 3900
   },
   {
     "id": "no-autopilot-mod",
@@ -1498,7 +1498,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2762
+    "downloadCount": 2765
   },
   {
     "id": "NOBlackBox",
@@ -1552,7 +1552,7 @@
         ]
       }
     ],
-    "downloadCount": 2009
+    "downloadCount": 2010
   },
   {
     "id": "NOCursorOverride",
@@ -1677,7 +1677,7 @@
         ]
       }
     ],
-    "downloadCount": 482
+    "downloadCount": 484
   },
   {
     "id": "NOLiveryPlus",
@@ -1866,7 +1866,7 @@
         ]
       }
     ],
-    "downloadCount": 1118
+    "downloadCount": 1123
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -1917,7 +1917,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 464
+    "downloadCount": 465
   },
   {
     "id": "pixy_voice",
@@ -2016,7 +2016,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 190
+    "downloadCount": 192
   },
   {
     "id": "RuntimeUnityEditor",
@@ -2049,7 +2049,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116739
+    "downloadCount": 116746
   },
   {
     "id": "skyeye_voice",
@@ -2155,7 +2155,7 @@
         "downloadUrl": "https://github.com/9138noms/UnitCopyPaste/releases/download/v1.0.0/UnitCopyPaste.dll"
       }
     ],
-    "downloadCount": 33
+    "downloadCount": 34
   },
   {
     "id": "VehicleControl",
